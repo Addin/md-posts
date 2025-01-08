@@ -20,7 +20,7 @@ I'm an avid C++ developer — but if I were starting from scratch today, I would
 
 In fact, I'd urge everyone to learn Rust. I'll explain why.
 
-![Matrix Meme - Safety vs Performance](img/img_01.webp)
+![Matrix Meme - Safety vs Performance](../img/img_01.avif)
 
 ## Content Overview
 
@@ -37,7 +37,7 @@ Now let's dive in.
 
 ## What Makes Rust Special?
 
-![Fearless Concurrency Meme](img/img_02.webp)
+![Fearless Concurrency Meme](../img/img_02.avif)
 
 There's good reason Rust won "Most Admired Programming Language" in Stack Overflow's Developer Surveys for multiple years running.
 
@@ -131,13 +131,13 @@ Here's a simple breakdown:
 
 Here's a visual of how Rust's compiler works:
 
-![Rust Compiler Diagram](img/img_03.webp)
+![Rust Compiler Diagram](../img/img_03.avif)
 
 By adding safety checks during compilation, Rust catches most bugs during this compilation process, so you can avoid issues like memory errors before your program even runs.
 
 ## Rust in the Real World
 
-![Rust in 2025](img/img_04.webp)
+![Rust in 2025](../img/img_04.avif)
 
 Rust thrives in various use cases where safety and performance are paramount:
 
@@ -165,7 +165,7 @@ Major companies using Rust include Microsoft, Facebook, Dropbox, and Discord.
 
 ## Case Study: Fyrox–Build Games Using Rust
 
-![Fyrox Logo](img/img_05.webp)
+![Fyrox Logo](../img/img_05.avif)
 
 Rust's performance, safety, and low-level control make it an increasingly compelling choice for game development for both indie developers and major studios.
 
@@ -186,7 +186,7 @@ Whether you're building a small 2D platformer or a sprawling 3D adventure, Rust 
 
 Here's how Rust stacks up to C++, Go, and Python:
 
-![Table](img/img_06.webp)
+![Table](../img/img_06.avif)
 
 
 Unlike Go or Python, which focus on simplicity, Rust empowers you to write low-level, high-performance code that's still safe and maintainable.
@@ -220,7 +220,7 @@ If you're ready to start your Rust journey, here's a step-by-step roadmap:
 
 ## Get Future-Ready with Rust
 
-![Bernie Meme](img/img_07.webp)
+![Bernie Meme](../img/img_07.avif)
 
 With impressive performance and unmatched memory safety, Rust is the go-to for building reliable, high-stakes software. Mastering Rust will prepare you for the most exciting challenges in tech for years to come.
 
