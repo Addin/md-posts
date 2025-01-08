@@ -1,0 +1,10 @@
+theme: jekyll-theme-primer
+title: The Language I'd Learn if I Had to Start Over
+description: A comprehensive guide to Rust programming in 2025
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
